@@ -1,0 +1,10 @@
+Buildfile: D:\workspace\Mendix\LearnNow\deployment\build_core.xml
+
+deploy:
+     [copy] Copying 52 files to D:\workspace\Mendix\LearnNow\deployment
+     [copy] Copying 5 files to D:\workspace\Mendix\LearnNow\deployment\model\resources
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
