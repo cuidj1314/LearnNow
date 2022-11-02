@@ -1,7 +1,7 @@
 Buildfile: D:\workspace\Mendix\LearnNow\deployment\build_core.xml
 
 compile:
-    [javac] Compiling 59 source files to D:\workspace\Mendix\LearnNow\deployment\run\bin
+    [javac] Compiling 60 source files to D:\workspace\Mendix\LearnNow\deployment\run\bin
     [javac] 注: D:\workspace\Mendix\LearnNow\javasource\system\UserActionsRegistrar.java使用或覆盖了已过时的 API。
     [javac] 注: 有关详细信息, 请使用 -Xlint:deprecation 重新编译。
 
@@ -9,6 +9,6 @@ package:
       [jar] Building jar: D:\workspace\Mendix\LearnNow\deployment\model\bundles\project.jar
 
 BUILD SUCCESSFUL
-Total time: 3 seconds
+Total time: 2 seconds
 
 
