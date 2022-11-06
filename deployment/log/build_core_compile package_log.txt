@@ -9,6 +9,6 @@ package:
       [jar] Building jar: D:\workspace\Mendix\LearnNow\deployment\model\bundles\project.jar
 
 BUILD SUCCESSFUL
-Total time: 2 seconds
+Total time: 3 seconds
 
 
